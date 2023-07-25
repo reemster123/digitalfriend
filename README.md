@@ -1,7 +1,7 @@
 # digitalfriend
 Add chat gpt as a friend to you telegram groupchat. You can tag/mention him in messages for questions. You can reply to his answers with other questions (tagging still nessecary). 
 
-1. Install NodeJs on your Localmachine/Raspberry/Server
+1. Install NodeJs on your Localmachine/RaspberryPi/Server
 
 2. Go to root directory of the project and install following libraries:
 
