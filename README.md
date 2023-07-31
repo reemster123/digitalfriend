@@ -3,15 +3,9 @@ Add chat gpt as a friend to you telegram groupchat. You can tag/mention him in m
 
 1. Install NodeJs on your Localmachine/RaspberryPi/Server
 
-2. go to root directory and initialize the proejct with typing "npm init" in the terminal
+2. go to root directory and initialize the proejct with typing "npm install"
 
-3. Install following libraries with typing the following commands in the terminal and hit enter:
-
-"npm install dotenv"
-
-"npm install axios"
-
-4. Create a file called ".env" and add the following environment variables:
+3. Create a file called ".env" and add the following environment variables:
 
 BOT_TOKEN=[ create a bot on telegram get it's token and paste it here. Tip: use telegram bothFather ]
 
@@ -27,7 +21,7 @@ CHAT_ID_2=[ add another telegram groupchatId ]
 
 CHAT_ID_3=[ add another telegram groupchatId ] 
 
-5. create a groupchat on telegram with your bot as admin. Set the "privacy mode"of your telegram bot (is On by default) to "off" with /setprivacy in telegram using the bothFather.
+4. create a groupchat on telegram with your bot as admin. Set the "privacy mode"of your telegram bot (is On by default) to "off" with /setprivacy in telegram using the bothFather.
    
 5. to run locally run: node index.js
 
