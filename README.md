@@ -27,13 +27,13 @@ CHAT_ID_2=[ add another telegram groupchatId ]
 
 CHAT_ID_3=[ add another telegram groupchatId ] 
 
-5. create a groupchat on telegram with your bot as admin. Set the "privacy mode"of your telegram bot (is On by default) to off with /setprivacy in telegram using the bothFather.
+5. create a groupchat on telegram with your bot as admin. Set the "privacy mode"of your telegram bot (is On by default) to "off" with /setprivacy in telegram using the bothFather.
    
 5. to run locally run: node index.js
 
-6.  tag your bot and ask him something.
+6. tag your bot in the twelegram chat and ask him something.
    
-7.  if it works add your friends to the chat.
+7. if it works add your friends to the chat.
 
 
 
